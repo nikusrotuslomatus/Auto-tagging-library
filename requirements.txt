@@ -1,0 +1,5 @@
+PyQt6>=6.4.0
+torch>=2.0.0
+clip @ git+https://github.com/openai/CLIP.git
+Pillow>=9.0.0
+watchdog>=2.1.0 
